@@ -26,7 +26,7 @@ A comprehensive investment tracking tool that empowers users to manage their por
 ### 3. CreditBoost
 An AI-powered credit scoring system that offers accurate and transparent credit evaluations. CreditBoost helps users understand and improve their credit scores with actionable recommendations.
 
-### 4. RiskGaurd
+### 4. RiskGuard
 RiskGuard leverages advanced AI to provide comprehensive risk analysis for your investment portfolio, helping you optimize returns while safeguarding against potential losses.
 
 ## Getting Started
